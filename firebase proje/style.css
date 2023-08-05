@@ -1,0 +1,42 @@
+.box{
+    align-items: center;
+    background: white;
+}
+.box1{
+
+    align-items: center;
+    padding-left: 579px;
+    padding-top: 80px;
+}
+.box2{
+
+    padding-left: 579px;
+    padding-top: 40px;
+}
+.box3{
+
+    padding-left: 640px;
+    padding-top: 7px;
+}
+.green-button{
+display: inline-block;
+padding: 18px 35px;
+background-color: green;
+color: white;
+font-size: 35px;
+text-align: center;
+text-decoration: none;
+border: none;
+border-radius: 10px;
+cursor: pointer;
+box-shadow: gray;
+
+}
+.green-button{
+    background-color: #45a049;
+}
+.box4{
+padding-left: 620px;
+padding-top: 178px;
+    
+}
